@@ -6,7 +6,6 @@ O grupo é composto por:
 
 *Camila Alves* </br>
 *Dafini Pereira* </br>
-*Higor Castro* </br>
 *João Ferreira* </br>
 *Vanessa Silva* </br>
 
